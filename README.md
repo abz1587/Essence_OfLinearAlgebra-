@@ -12,7 +12,7 @@ Welcome to the Essence_OfLinearAlgebra- wiki!
 
 《Essence of Linear Algebra》这个系列视频（16个），把重点放在线性代数的几何意义的理解上而不是计算技巧上，非常值得一看。
 
-*** 矩阵就是线性变换、空间变换**
+**矩阵就是线性变换、空间变换**
 
 **行列式就是空间的面积或体积**
 
